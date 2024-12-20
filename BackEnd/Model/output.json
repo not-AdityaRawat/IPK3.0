@@ -1,0 +1,1154 @@
+
+
+[
+  {
+    "_id": "6762016e5765b4d77e7a70b6",
+    "id": 1734476141433,
+    "title": "DS Long Notes",
+    "upvotes": 1,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/19iqwDP8XzgOs1QYO-t7pcG2Qx1f3-1zm/view",
+    "subjectname": "Data Structures",
+    "unitname": "UNIT-1",
+    "isValid": true,
+    "downvotes": 1
+  },
+  {
+    "_id": "67629236a27bd182e9064a73",
+    "id": 1734513206517,
+    "title": "DS Short Notes",
+    "upvotes": 2,
+    "downvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1_fmAYAbusq6z-qh-Gd-n3M9LOoe4-7Jv/view",
+    "subjectname": "Data Structures",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "67629cb30fa4eb5ab7b1c157",
+    "id": 1734515890807,
+    "title": "Data Structure Algorithm Beginners Guide",
+    "upvotes": 0,
+    "downvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/12TY8dFA1v4uBJY_PQ3ZFfpmEDAeiE1aP/view",
+    "subjectname": "Data Structures",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "6762a636189ce8897872eaef",
+    "id": 1734518325573,
+    "title": "ClassNotes unit 1",
+    "upvotes": 3,
+    "uploadedBy": "Mayank ",
+    "embeded": "https://drive.google.com/file/d/10T-8-YFwJ3s033QE9-LdCSzoOYvLmZuy/view",
+    "subjectname": "Data Structures",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "67631311f9d440967a8310d7",
+    "id": 1734473441433,
+    "title": "Atomic Structure",
+    "upvotes": 2,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1MkClDTcxNydHCu4d7BSa5ZnirLvEi2U0/view?usp=sharing",
+    "subjectname": "Engineering Chemistry – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "67631311f9d440967a8310d8",
+    "id": 1734476141440,
+    "title": "Complete Unit-1 Notes",
+    "upvotes": {
+      "$numberInt": "5"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1zp9o5xr9nnPBx6-RK9I2FNwskGbjF658/view?usp=drive_link",
+    "subjectname": "Engineering Chemistry – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676314d77768c81948c9c5fd",
+    "id": 1734470981433,
+    "title": "Thermochemistry",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1Zau9y08VPFiKAccezR8PMs0w-ipr60XD/view?usp=drive_link",
+    "subjectname": "Engineering Chemistry – I",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "676314d77768c81948c9c5fe",
+    "id": 1734476141443,
+    "title": "Thermochemistry Handwritten Notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1AxMman_kaVIyZu2jqIwkUTZKZURatHTp/view?usp=drive_link",
+    "subjectname": "Engineering Chemistry – I",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "676318f5e3d40a709cf4c6bd",
+    "id": 913712257,
+    "title": "Organic Chemistry",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1iUQrzJXni5fkQ-lZNZZwA4_y9gefTX8Y/view?usp=drive_link",
+    "subjectname": "Engineering Chemistry – I",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "676318f5e3d40a709cf4c6be",
+    "id": 467102100,
+    "title": "Complete Steriochemistry Notes",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/19jocMj86Hco7YoF7n9frHMQryRsnUl6G/view?usp=drive_link",
+    "subjectname": "Engineering Chemistry – I",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "676318f5e3d40a709cf4c6bf",
+    "id": 9121610,
+    "title": "Chemistry File",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1sLngOiLLiTg0LDz8kgeOlf47Yigjugf1/view?usp=drive_link",
+    "subjectname": "Engineering Chemistry-I Lab",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676318f5e3d40a709cf4c6c0",
+    "id": 491389994,
+    "title": "Calorimeter Test",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/15gKjZF2olaBC0n9WfRmqDDvvD-kIwBTJ/view?usp=drive_link",
+    "subjectname": "Engineering Chemistry-I Lab",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676318f5e3d40a709cf4c6c1",
+    "id": 855362135,
+    "title": "Experiments",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/143BtLkhKDI_GN1W5ninKRq82Ov-LNi2T/view?usp=sharing",
+    "subjectname": "Engineering Chemistry-I Lab",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676318f5e3d40a709cf4c6c2",
+    "id": 111583201,
+    "title": "Communication Skills Complete",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1l-Lxe2sY_w-IdN2fYzijSv4UKQqRGEX0/view?usp=sharing",
+    "subjectname": "Communication Skills-I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676318f5e3d40a709cf4c6c3",
+    "id": 901543752,
+    "title": "Prof Notes Unit-1",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1pz7eFx9StMynR9mv92GBX7aHf4kUXftb/view?usp=sharing",
+    "subjectname": "Communication Skills-I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676318f5e3d40a709cf4c6c4",
+    "id": 914836653,
+    "title": "Prof Notes Unit-2",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1YVy5uOZDvgyojGgjmcOd1yJPVOpZudDh/view?usp=sharing",
+    "subjectname": "Communication Skills-I",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "676318f5e3d40a709cf4c6c5",
+    "id": 539704743,
+    "title": "Prof Notes Unit-3",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1I0MS40Y2hO23ywEmkJYHJzuneOMIfy0I/view?usp=sharing",
+    "subjectname": "Communication Skills-I",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "67631bcc19ed79c4849a636d",
+    "id": 542503955,
+    "title": "Book",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1avAF5lfA7ke6ti0yOR9o5HQEqSEbVaI5/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "67631bcc19ed79c4849a636e",
+    "id": 681725471,
+    "title": "DC Circuits",
+    "upvotes": {
+      "$numberInt": "2"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1kYhtErTQQYwjQwNYlwxWW6MHzdDfcPy_/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "67631bcc19ed79c4849a636f",
+    "id": 612706628,
+    "title": "Assignment QnA",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/11hROYFrYzUq_Uy7aWP262MrNurmV0C3U/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "67631bcc19ed79c4849a6370",
+    "id": 283610043,
+    "title": "Detailed Notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1UHZ43GedGoeWPAbncWVF-Tu_F640fpLq/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "67631bcc19ed79c4849a6371",
+    "id": 510761540,
+    "title": "Assigment 2",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1hz2VOAltTt07rBGzjiTwMAkpI4qHenwh/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "67631bcc19ed79c4849a6372",
+    "id": 875969787,
+    "title": "Solved Examples",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1au4NRVY-yH70PMQO-wascCGO2qrE1sV4/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "67631bcc19ed79c4849a6373",
+    "id": 509928927,
+    "title": "Short Notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1pXJEFVkdCJYClP1Xjr_BJmmLiIQlr5Oi/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "67631bcc19ed79c4849a6374",
+    "id": 337942863,
+    "title": "Detailed Unit-2 Notes",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1awNmfV4FAVANGXnfDZDjDi5HMCpaXwiG/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "67631bcc19ed79c4849a6375",
+    "id": 553319854,
+    "title": "Prof Notes Unit-2",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/12qLsd4igu-JfnI6fQvyJJ84fIJGB8RKZ/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "67631bcc19ed79c4849a6376",
+    "id": 115845057,
+    "title": "Prof PPT",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://docs.google.com/presentation/d/1wejzDgZ3SUsUUmYzSOr0ZJaO1U6Nd2uV/edit?usp=sharing&ouid=108076587125309912044&rtpof=true&sd=true",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "67631bcc19ed79c4849a6377",
+    "id": 397284384,
+    "title": "Unit-2 Detailed Notes",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1N53AORVJdQOYUHQ1na7Jfp71YWw0oTUU/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "67631e5badcb83b1a65c57dd",
+    "id": 62730294,
+    "title": "AC & DC notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1XqfEs22F8K8gEfF1G-12pF0umoGFoQoC/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "67631e5badcb83b1a65c57de",
+    "id": 759794421,
+    "title": "HandWritten Notes",
+    "upvotes": {
+      "$numberInt": "2"
+    },
+    "uploadedBy": "Khushi",
+    "embeded": "https://drive.google.com/file/d/17GvmZRtLqBnEIAdGvKGgkkTFDdP53yf6/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "67631e5badcb83b1a65c57df",
+    "id": 94851231,
+    "title": "DC & AC Machines",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1ZQHFyk4FhfItC0v7Bfc4GaPaugoP0rhI/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "67631e5badcb83b1a65c57e0",
+    "id": 166139834,
+    "title": "Detailed PPT AC Generator & Motor",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://docs.google.com/presentation/d/15ctKCUMBRr9BjkdmvmtrHPOXWAxDclnx/edit?usp=sharing&ouid=108076587125309912044&rtpof=true&sd=true",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "67631e5badcb83b1a65c57e1",
+    "id": 332861114,
+    "title": "Detailed PPT DC Generator & Motor",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://docs.google.com/presentation/d/1NZ3hhQWsV-4c6GbUa84cuiAphfW3ZGq_/edit?usp=sharing&ouid=108076587125309912044&rtpof=true&sd=true",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "67631e5badcb83b1a65c57e2",
+    "id": 435371288,
+    "title": "DC Motors",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1ChxJBzWQI2IDpQd2KIdiTy5E6jID85XQ/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "67631e5badcb83b1a65c57e3",
+    "id": 174973022,
+    "title": "transformers PPTX",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1pXJEFVkdCJYClP1Xjr_BJmmLiIQlr5Oi/view?usp=sharing",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "67631e5badcb83b1a65c57e4",
+    "id": 687885875,
+    "title": "Transformer & Measurement",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/11HIZ7eLUNZvIjjMEmRIcvAWXqCw6SOyE/view?usp=drive_link",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "67631e5badcb83b1a65c57e5",
+    "id": 802922406,
+    "title": "Measuring Instruments",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1EJgNRONEMtEWYKRrdPtiuRCQb8UeWH9M/view?usp=drive_link",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "67631e5badcb83b1a65c57e6",
+    "id": 503170251,
+    "title": "Complete Notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1NsUvioDxff-unDQI2lPeuUqTzObcvi1N/view?usp=drive_link",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "67631e5badcb83b1a65c57e7",
+    "id": 92266244,
+    "title": "Complete Notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1NsUvioDxff-unDQI2lPeuUqTzObcvi1N/view?usp=drive_link",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "67631e5badcb83b1a65c57e8",
+    "id": 69938246,
+    "title": "Electrical Assignment",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1s60ANxogP4Zh3QZG_Pf5JXPuxwpWjtiA/view?usp=drive_link",
+    "subjectname": "Electrical Science",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce924826908a",
+    "id": 415029334,
+    "title": "ES Files",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1z3Ww3_pGuIdDPOpqQ8FexMt9nITWGERG/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce924826908b",
+    "id": 766905610,
+    "title": "Lab Manual",
+    "upvotes": {
+      "$numberInt": "2"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1aQGW5l51m1GQ6yURDf8aU0OsUrR5zZuY/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce924826908c",
+    "id": 551327841,
+    "title": "Transformer",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1VPJryNAH1VD6KByg6sKcjta4JMC7cCFy/view?usp=drive_link",
+    "subjectname": "Electrical Science Lab.",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce924826908d",
+    "id": 460128336,
+    "title": "measuring instruments",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://docs.google.com/document/d/1qvVKuLMNzz-Zq19JxsMZg4wLCUwVTTtl/edit?usp=drive_link&ouid=108076587125309912044&rtpof=true&sd=true",
+    "subjectname": "Electrical Science Lab.",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce924826908e",
+    "id": 17758129,
+    "title": "Maths Complete notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1GSWRy-WwMBa3HNo5S9ThCNRTwqZaYdVZ/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce924826908f",
+    "id": 319908396,
+    "title": "Maths Complete notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1GSWRy-WwMBa3HNo5S9ThCNRTwqZaYdVZ/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce9248269090",
+    "id": 637523766,
+    "title": "Maths Complete notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1GSWRy-WwMBa3HNo5S9ThCNRTwqZaYdVZ/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce9248269091",
+    "id": 893462430,
+    "title": "Maths Complete notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1GSWRy-WwMBa3HNo5S9ThCNRTwqZaYdVZ/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce9248269092",
+    "id": 972923964,
+    "title": "Population Dynamics & Orthogonal Trajectories",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/179rVsx2ttHiOIe1-sxjjIRFPat22h_D8/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce9248269093",
+    "id": 769294482,
+    "title": "Questions",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/123PMvfGnOemP4PAl35CAYEukJOM1E5Bw/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce9248269094",
+    "id": 922904351,
+    "title": "Transformer & Measurement",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/11HIZ7eLUNZvIjjMEmRIcvAWXqCw6SOyE/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce9248269095",
+    "id": 954017265,
+    "title": "Handwritten notes",
+    "upvotes": {
+      "$numberInt": "3"
+    },
+    "uploadedBy": "Naveen Sharma",
+    "embeded": "https://drive.google.com/file/d/1zQz0JocuIJ-gqOFhovlGvNfTlWAwnxPA/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce9248269096",
+    "id": 775733098,
+    "title": "Partial Differentiation",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/17epa4j_ioye8p26dkTooCAJSbiORfrhW/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce9248269097",
+    "id": 761208885,
+    "title": "Unit-1 Imp Questions",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1I1EmOZywwuDLEjXUkptizcwURYwRUOIF/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676320ca2c57ce9248269098",
+    "id": 826501112,
+    "title": "Assignement 1",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1_QkYo6IgqfBcBbtvRv1X7Ryq1YC93hTH/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a399f4",
+    "id": 657567391,
+    "title": "Assignement-2",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1VcUybUzluNmJZh69vCjhky2--OiPk8RQ/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a399f5",
+    "id": 985744234,
+    "title": "Differential Equations",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1_FHCtKzueILR51fbywiGLUuL8vT2T2pu/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a399f6",
+    "id": 961165623,
+    "title": "Unit-2 notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1YNHN7mBWnOvrK07Lbixdx340cLfPD9_d/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a399f7",
+    "id": 374165813,
+    "title": "Goated Notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/19Y4hMwWp_G3S_PzZta_a5x41W_lC1fsm/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a399f8",
+    "id": 844145947,
+    "title": "Matrix Assignment",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1bVd_axpYpzpVMj_nHxhGgyws8y6v5YST/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a399f9",
+    "id": 794416821,
+    "title": "Matrix Notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1z5kC2H7kDi9l5bLkQL7PvnjSgmdw8VHT/view?usp=sharing",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a399fa",
+    "id": 545714926,
+    "title": "Unit 4Imp ques",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1clAyZf32EqL4pNXon_kuFXQ3IN0Hb7AK/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a399fb",
+    "id": 342118751,
+    "title": "Unit-4 notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1dgASU_j7QUHfpvxhOAg320mNsH6wrCeh/view?usp=sharing",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a399fc",
+    "id": 380106537,
+    "title": "Vectors 1",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/16gN3cA__sZbHYhqaNHsK3nbqgGZjUUeB/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a399fd",
+    "id": 367129733,
+    "title": "Vectors 2",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1H6qb7SZOkRKHZLjfso3xG3r1R3rCFy6-/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a399fe",
+    "id": 745456995,
+    "title": "Matrix Formulaes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1IAQz_WBjM2D05WEAlJMv7TgTuRsT-4ZJ/view?usp=drive_link",
+    "subjectname": "Engineering Mathematics – I",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a399ff",
+    "id": 539021065,
+    "title": "Complete Mechanics",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1LJrrdJOZBGXqQRCC9TM8Cko-ilU4xVpF/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a39a00",
+    "id": 463579685,
+    "title": "Complete Mechanics",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1LJrrdJOZBGXqQRCC9TM8Cko-ilU4xVpF/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a39a01",
+    "id": 789679910,
+    "title": "Complete Mechanics",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1LJrrdJOZBGXqQRCC9TM8Cko-ilU4xVpF/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a39a02",
+    "id": 118080096,
+    "title": "Complete Mechanics",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1LJrrdJOZBGXqQRCC9TM8Cko-ilU4xVpF/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a39a03",
+    "id": 735446144,
+    "title": "Unit-3 & 4",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1t9Hgy8N8uRxqzUYhQN7SwqP9C25IPkwA/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a39a04",
+    "id": 260388717,
+    "title": "Unit-3 & 4",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1t9Hgy8N8uRxqzUYhQN7SwqP9C25IPkwA/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a39a05",
+    "id": 121529088,
+    "title": "Friction",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1mL8d3OLKdbZyoVsga9TmyLkleQWfPBPC/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a39a06",
+    "id": 753868892,
+    "title": "Force System",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1pKVNBShZd1K1pMGIY2xve2n3tkKHricL/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a39a07",
+    "id": 530810636,
+    "title": "Equilibrium",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/11AYLMjCifw5h1Pi2W7AxINXw-zzmWqb7/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a39a08",
+    "id": 672616353,
+    "title": "Class Notes",
+    "upvotes": 0,
+    "uploadedBy": "Raja Ayush",
+    "embeded": "https://drive.google.com/file/d/1CsOvc13qX6XjeFHEqlkEbQUxaW_h9hV8/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a39a09",
+    "id": 534794883,
+    "title": "Distributed Systems",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1Wrj_Wm7b88sDHbhP2oi2_3_J4S2WTfTu/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "6763253fd7b20e0d72a39a0a",
+    "id": 596019833,
+    "title": "Friction",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/14hDPAu9GnrZOzK_sNL1JNUqG0DBa5JwT/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa0b",
+    "id": 827152235,
+    "title": "Trusses",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1sBiH-XctDUuK8qLMgV2cbVj1cic_sdcC/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa0c",
+    "id": 811143121,
+    "title": "Structures",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1JkmjoU_9Ci9W07auvtPVW2POX5uNdUkR/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa0d",
+    "id": 322827376,
+    "title": "Shear Force & Bending Movement",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1JdNfol0OtzLtKVs3FMjBPaihX2D6x4NP/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa0e",
+    "id": 880472599,
+    "title": "Kinematics of Particles",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1hv70efM1vY_gceOAt2svND-HDWvxweHZ/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa0f",
+    "id": 435181482,
+    "title": "Kinetics of Particles",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1ID1W6Qj2kvjkcRDDJOpCxUAWd2uEz6PZ/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa10",
+    "id": 43742361,
+    "title": "Beam SFD & BMD",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1dxizsmwT8yqkE-3m-q3E0M4FqplU4f3F/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa11",
+    "id": 153862031,
+    "title": "Beam",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/136t27OuoWJstIk5CYvk3FIel4gIY62HR/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa12",
+    "id": 985522129,
+    "title": "Kinematics of Rigid body",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/19w5oGhQqs5tnUoG59WmvnVpryGtKvxMw/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa13",
+    "id": 917740011,
+    "title": "Kinetics of Rigid Body",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1dE1zJwdn4ntv_h21r_hsi_xFcDTI9oil/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa14",
+    "id": 587355078,
+    "title": "Vectors 2",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1H6qb7SZOkRKHZLjfso3xG3r1R3rCFy6-/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa15",
+    "id": 4219233,
+    "title": "Assignment-3",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1y3WYOgO327Sp6MLGZ1PWphrNqRIziH4C/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-3",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa16",
+    "id": 429320571,
+    "title": "Assignment-4",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1dHL21KFf68OI9nCpUD2Z382rBGAWuXEd/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-4",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa17",
+    "id": 358751680,
+    "title": "Assignment-1",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1kMk7xz3fKrFK2PTAsoMprkYxwjq3zzCb/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa18",
+    "id": 992911551,
+    "title": "Assignment-2",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1x7CKGVTDPI9Ls82nznOP8P2zy_Z2Hsu7/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa19",
+    "id": 744048727,
+    "title": "PYQ",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1YYNGxurQdpFe_eALcaQlaBdC-U88uUue/view?usp=drive_link",
+    "subjectname": "Engineering Mechanics",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa1a",
+    "id": 295825845,
+    "title": "Thermo notes-1",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/16EcTiU1tjiOm5SJLtihUSKTAqa_JQGSF/view?usp=drive_link",
+    "subjectname": "Engineering Physics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa1b",
+    "id": 309772936,
+    "title": "Thermo notes-2",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1qW-Gq8nnZRaEnXoIsbJtTMALL63ZWhL1/view?usp=drive_link",
+    "subjectname": "Engineering Physics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa1c",
+    "id": 729957550,
+    "title": "Thermo notes-3",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1gM4TdFnfxq6t0Z9qxpfKrgUUBTNKtKJO/view?usp=drive_link",
+    "subjectname": "Engineering Physics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa1d",
+    "id": 337383943,
+    "title": "Thermo notes-4",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1_QKFoz9OiICbwTPfuOWeOLFNSO-9MoGA/view?usp=drive_link",
+    "subjectname": "Engineering Physics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa1e",
+    "id": 279423555,
+    "title": "Complete notes",
+    "upvotes": 0,
+    "uploadedBy": "Saksham IIOT",
+    "embeded": "https://drive.google.com/file/d/16UcXdSXVVFNaQgeIs4sT4W5Hiuo97ex9/view?usp=drive_link",
+    "subjectname": "Engineering Physics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa1f",
+    "id": 610263533,
+    "title": "THermo Unit-1 Complete",
+    "upvotes": 0,
+    "uploadedBy": "Raja Ayush",
+    "embeded": "https://drive.google.com/file/d/1CsOvc13qX6XjeFHEqlkEbQUxaW_h9hV8/view?usp=drive_link",
+    "subjectname": "Engineering Physics – I",
+    "unitname": "UNIT-1",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa20",
+    "id": 683151896,
+    "title": "Electromagnetic Waves",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1L2aUUqXx0ZRxGdbgLbGPVgne38SGEu0e/view?usp=drive_link",
+    "subjectname": "Engineering Physics – I",
+    "unitname": "UNIT-2",
+    "isValid": true
+  },
+  {
+    "_id": "676328c85c28de26ccb0aa21",
+    "id": 349323323,
+    "title": "Unit-2 Notes",
+    "upvotes": 0,
+    "uploadedBy": "admin",
+    "embeded": "https://drive.google.com/file/d/1nQdYFdUidjQo_hPcdtAhDysPz93DFY4y/view?usp=drive_link",
+    "subjectname": "Engineering Physics – I",
+    "unitname": "UNIT-2",
+    "isValid": true
+  }
+]
